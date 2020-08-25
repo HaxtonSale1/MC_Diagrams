@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T23:46:21.551Z" agent="5.0 (Windows)" etag="6to_8yQhp3G1GfYKW-jv" version="13.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-08-25T23:47:32.504Z" agent="5.0 (Windows)" etag="h116Nd2-qNLP0-hqH9wh" version="13.6.5" type="github" pages="3">
   <diagram id="E6Eq9M-jHGRb96KLQHYH" name="Page-1">
     <mxGraphModel dx="3654" dy="1191" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
             <mxPoint x="-220" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aaTEEqOqEQQ5uZbAnoPO-16" value="&lt;div&gt;Corn and Vegetable&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#ffffff;strokeWidth=4;fillColor=#647687;strokeColor=#314354;" parent="1" vertex="1">
+        <mxCell id="aaTEEqOqEQQ5uZbAnoPO-16" value="Corn" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#ffffff;strokeWidth=4;fillColor=#647687;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="-400" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aaTEEqOqEQQ5uZbAnoPO-25" value="&lt;div&gt;Presser&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;jumpSize=6;jumpStyle=gap;" parent="1" source="aaTEEqOqEQQ5uZbAnoPO-23" target="aaTEEqOqEQQ5uZbAnoPO-24" edge="1">
@@ -351,6 +351,12 @@
         </mxCell>
         <mxCell id="dL-rgXdkK35uVsJLjAY0-17" value="Cutting Board" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-280" y="900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL-rgXdkK35uVsJLjAY0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=gap;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dL-rgXdkK35uVsJLjAY0-29" target="dL-rgXdkK35uVsJLjAY0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dL-rgXdkK35uVsJLjAY0-29" value="Vegetable" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#ffffff;strokeWidth=4;fillColor=#647687;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
