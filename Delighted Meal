@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-08-30T09:45:52.426Z" agent="5.0 (Windows)" etag="mldSSbQ7gO1ibsfxZqRr" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-30T11:02:16.208Z" agent="5.0 (Windows)" etag="AP1uKxC1Vjm75qxewgzo" version="13.6.5" type="github">
   <diagram id="-bI7ZbuT_mJGz6s6LS-N" name="Page-2">
-    <mxGraphModel dx="3547" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="century gothic^https://fonts.googleapis.com/css?family=century+gothic">
+    <mxGraphModel dx="2827" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="century gothic^https://fonts.googleapis.com/css?family=century+gothic">
       <root>
         <mxCell id="PAqhtmN2BRadQCzswOR6-0" />
         <mxCell id="PAqhtmN2BRadQCzswOR6-1" parent="PAqhtmN2BRadQCzswOR6-0" />
         <mxCell id="eumQU3DKO5EFO1Rvfck--62" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=century gothic;fillColor=#bac8d3;strokeColor=none;" parent="PAqhtmN2BRadQCzswOR6-1" vertex="1">
-          <mxGeometry x="840" y="890" width="160" height="160" as="geometry" />
+          <mxGeometry x="840" y="910" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eumQU3DKO5EFO1Rvfck--56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=century gothic;fillColor=#bac8d3;strokeColor=none;" parent="PAqhtmN2BRadQCzswOR6-1" vertex="1">
           <mxGeometry x="660" y="140" width="120" height="980" as="geometry" />
@@ -412,9 +412,9 @@
           <mxGeometry x="-280" y="830" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eumQU3DKO5EFO1Rvfck--57" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Delighted Meal&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;fontFamily=century gothic;fillColor=#647687;fontColor=#ffffff;" parent="PAqhtmN2BRadQCzswOR6-1" vertex="1">
-          <mxGeometry x="860" y="910" width="120" height="120" as="geometry" />
+          <mxGeometry x="860" y="930" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aaJlbI6V0YpW7DRls30Q-0" value="Easier starting point" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=century gothic;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="PAqhtmN2BRadQCzswOR6-1">
+        <mxCell id="aaJlbI6V0YpW7DRls30Q-0" value="Easier starting point" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=century gothic;fillColor=#bac8d3;strokeColor=#23445d;" parent="PAqhtmN2BRadQCzswOR6-1" vertex="1">
           <mxGeometry x="-300" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
