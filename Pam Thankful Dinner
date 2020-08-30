@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-30T09:09:26.021Z" agent="5.0 (Windows)" etag="-ajvnflYmkQGJ97fMgtZ" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-30T09:12:04.789Z" agent="5.0 (Windows)" etag="I9pWmo85WgCc3AIoKrZd" version="13.6.5" type="github">
   <diagram name="Copy of Copy of Page-2" id="fVWn1K4EmWnasQKY7UFF">
-    <mxGraphModel dx="2267" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="938" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wWzTCVLIrNzynzeQFLA0-0" />
         <mxCell id="wWzTCVLIrNzynzeQFLA0-1" parent="wWzTCVLIrNzynzeQFLA0-0" />
@@ -19,11 +19,11 @@
         <mxCell id="wWzTCVLIrNzynzeQFLA0-6" value="Sugar Cane" style="rounded=1;whiteSpace=wrap;html=1;startSize=0;arcSize=50;" vertex="1" parent="wWzTCVLIrNzynzeQFLA0-1">
           <mxGeometry x="20" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wWzTCVLIrNzynzeQFLA0-7" value="Grinder" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=0;jumpStyle=gap;" edge="1" parent="wWzTCVLIrNzynzeQFLA0-1" source="wWzTCVLIrNzynzeQFLA0-8" target="wWzTCVLIrNzynzeQFLA0-34">
+        <mxCell id="wWzTCVLIrNzynzeQFLA0-7" value="Grinder" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=0;jumpStyle=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wWzTCVLIrNzynzeQFLA0-1" source="wWzTCVLIrNzynzeQFLA0-8" target="wWzTCVLIrNzynzeQFLA0-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="980" y="460" />
-              <mxPoint x="980" y="380" />
+              <mxPoint x="840" y="460" />
+              <mxPoint x="840" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -113,8 +113,8 @@
         <mxCell id="wWzTCVLIrNzynzeQFLA0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;startSize=0;" edge="1" parent="wWzTCVLIrNzynzeQFLA0-1" source="wWzTCVLIrNzynzeQFLA0-32" target="wWzTCVLIrNzynzeQFLA0-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="950" y="230" />
-              <mxPoint x="950" y="290" />
+              <mxPoint x="790" y="230" />
+              <mxPoint x="790" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -130,12 +130,12 @@
           <mxGeometry x="680" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wWzTCVLIrNzynzeQFLA0-33" value="Bakeware" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=0;" edge="1" parent="wWzTCVLIrNzynzeQFLA0-1" source="wWzTCVLIrNzynzeQFLA0-34" target="wWzTCVLIrNzynzeQFLA0-82">
-          <mxGeometry x="0.8095" relative="1" as="geometry">
+          <mxGeometry x="0.5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wWzTCVLIrNzynzeQFLA0-34" value="Ground Cinnamon" style="rounded=0;whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="wWzTCVLIrNzynzeQFLA0-1">
-          <mxGeometry x="1020" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="860" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wWzTCVLIrNzynzeQFLA0-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=0;jumpStyle=gap;" edge="1" parent="wWzTCVLIrNzynzeQFLA0-1" source="wWzTCVLIrNzynzeQFLA0-36" target="wWzTCVLIrNzynzeQFLA0-52">
           <mxGeometry relative="1" as="geometry">
@@ -153,7 +153,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wWzTCVLIrNzynzeQFLA0-38" value="Dandelion Yellow" style="rounded=0;whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="wWzTCVLIrNzynzeQFLA0-1">
-          <mxGeometry x="500" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wWzTCVLIrNzynzeQFLA0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=0;jumpStyle=gap;" edge="1" parent="wWzTCVLIrNzynzeQFLA0-1" source="wWzTCVLIrNzynzeQFLA0-41" target="wWzTCVLIrNzynzeQFLA0-44">
           <mxGeometry relative="1" as="geometry" />
@@ -188,7 +188,7 @@
           <mxGeometry x="320" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wWzTCVLIrNzynzeQFLA0-45" value="Mixing Bowl" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=0;jumpStyle=gap;" edge="1" parent="wWzTCVLIrNzynzeQFLA0-1" source="wWzTCVLIrNzynzeQFLA0-46" target="wWzTCVLIrNzynzeQFLA0-60">
-          <mxGeometry x="-0.2" relative="1" as="geometry">
+          <mxGeometry x="0.2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -225,7 +225,7 @@
           <mxGeometry x="360" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wWzTCVLIrNzynzeQFLA0-55" value="Bakeware" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=0;jumpStyle=gap;" edge="1" parent="wWzTCVLIrNzynzeQFLA0-1" source="xTABMS7bQRLnG2rafBCB-0" target="wWzTCVLIrNzynzeQFLA0-58">
-          <mxGeometry x="0.8" relative="1" as="geometry">
+          <mxGeometry x="0.5172" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -318,8 +318,8 @@
         <mxCell id="wWzTCVLIrNzynzeQFLA0-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;startSize=0;" edge="1" parent="wWzTCVLIrNzynzeQFLA0-1" source="wWzTCVLIrNzynzeQFLA0-76" target="wWzTCVLIrNzynzeQFLA0-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="950" y="380" />
-              <mxPoint x="950" y="310" />
+              <mxPoint x="790" y="380" />
+              <mxPoint x="790" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -327,7 +327,9 @@
           <mxGeometry x="680" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wWzTCVLIrNzynzeQFLA0-77" value="Pot" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=0;" edge="1" parent="wWzTCVLIrNzynzeQFLA0-1" source="wWzTCVLIrNzynzeQFLA0-78" target="wWzTCVLIrNzynzeQFLA0-80">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.3333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wWzTCVLIrNzynzeQFLA0-78" value="Raw Tofeeg" style="rounded=0;whiteSpace=wrap;html=1;startSize=0;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="wWzTCVLIrNzynzeQFLA0-1">
           <mxGeometry x="680" y="280" width="80" height="40" as="geometry" />
@@ -341,7 +343,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wWzTCVLIrNzynzeQFLA0-80" value="Marshmallow" style="rounded=0;whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="wWzTCVLIrNzynzeQFLA0-1">
-          <mxGeometry x="1020" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="860" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wWzTCVLIrNzynzeQFLA0-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;startSize=0;" edge="1" parent="wWzTCVLIrNzynzeQFLA0-1" source="wWzTCVLIrNzynzeQFLA0-82" target="wWzTCVLIrNzynzeQFLA0-95">
           <mxGeometry relative="1" as="geometry">
